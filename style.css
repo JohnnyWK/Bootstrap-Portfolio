@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#name {
+    background: #4aaaa5;
+    padding: 20px;
+    color: white; 
+    font-weight: bold;
+}
+
+#navbarNav {
+    justify-content: right;
+}
