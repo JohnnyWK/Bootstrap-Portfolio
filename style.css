@@ -11,6 +11,7 @@ body {
     margin-top: 130px;
     background-color: white;
     padding:  20px;
+    width: 720px;
 }
 
 #name {
@@ -27,6 +28,10 @@ li {
 
 h1 {
     color: #4aaaa5;
-    border-bottom: 3px solid  #efefef;
-    padding-left: 20px;
+    padding: 20px;
+    border-bottom: solid 3px #efefef;
+}
+
+p {
+    margin-left: 40px;
 }
