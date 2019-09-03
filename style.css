@@ -56,6 +56,25 @@ footer {
     height: 50px;
   }
 
-#portfolio {
+#main-container {
+    float: left;
     background-color: white;
+    padding-top: 130px;
+    margin: 0 0 40px;
+    width: 50%;
+    max-width: 960px;
+}
+
+.card-text {
+    position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
 }
