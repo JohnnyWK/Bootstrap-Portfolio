@@ -14,11 +14,12 @@ body {
   }
 
 .about-me {
-    margin-left: 20px;
+    margin-left: 3.5%;
     margin-top: 130px;
     background-color: white;
     /* padding:  20px; */
     width: 720px;
+    padding-bottom: 5%;
 }
 
 #name {
@@ -35,7 +36,7 @@ li {
 
 h1 {
     color: #4aaaa5;
-    padding: 20px;
+    padding: 20px 0px 20px 0px;
     border-bottom: solid 3px #efefef;
 }
 
@@ -73,11 +74,13 @@ footer {
 #main-container {
     float: left;
     background-color: white;
-    padding-top: 130px;
-    margin: 0 0 40px;
+    /* padding-top: 130px; */
+    margin: 0 0 11.5%;
     width: 50%;
     max-width: 960px;
     margin-top:10%;
+    margin-left: 3.5%;
+    padding-bottom: 10%;
 }
 
 .card-text {
@@ -106,3 +109,6 @@ footer {
     margin-right: 32.3%;
 }
 
+form {
+    padding-bottom:  25px;
+}
