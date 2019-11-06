@@ -114,12 +114,22 @@ form {
 }
 
 #rockPic {
-    height:350px;
-    width: 300px;
+    width: 175.33px;
+    height: 270.98px;
 }
 
 #crystalPic {
-    height: 350px;
-    width: 300px;
+    width: 175.33px;
+    height: 270.98px;
 }
 
+
+#prince-image {
+    width: 175.33px;
+    height: 270.98px;
+}
+
+#sound-stalker-image {
+    width: 175.33px;
+    height: 270.98px;
+}
