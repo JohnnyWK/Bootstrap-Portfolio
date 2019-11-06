@@ -1,15 +1,34 @@
 @font-face {
     font-family: "prisma";
-    src: url(./fonts/Prisma.ttf)
+    src: url(./fonts/Prisma.ttf);
 }
 
 @font-face {
     font-family: "royalacid";
-    src: url(./fonts/Royalacid.ttf)
+    src: url(./fonts/Royalacid.ttf);
 }
 @font-face {
-    font-family: "doublebubble";
-    src: url(./fonts/Double_Bubble_shadow.otf)
+    font-family: "bubblegum";
+    src: url(./fonts/Bubblegum.ttf);
+}
+
+@font-face {
+    font-family: "apple";
+    src: url(./fonts/AppleGaramond-Light.ttf);
+}
+
+@font-face {
+    font-family: "purpleRain";
+    src: url(./fonts/still\ time.ttf);
+}
+
+@font-face {
+    font-family: "bauman";
+    src: url(./fonts/Bauman-Regular.ttf);
+}
+@font-face {
+    font-family: "misfits";
+    src: url(./fonts/MISFITS_.TTF);
 }
 
 body {
@@ -64,6 +83,51 @@ a {
     text-align: center;
 }
 
+/* .card-text {
+    font-family: 'Leckerli One', cursive;
+    text-align: center;
+    font-size: 30px;
+} */
+.card {
+    background: transparent;
+    border: none;
+    padding: 40px;
+}
+#clickyText {
+    font-family: "bubblegum";
+    text-align: center;
+    font-size: 32px;
+}
+
+#liriText {
+    font-family: "apple";
+    text-align: center;
+    font-size: 40px;
+}
+
+#princeText {
+    font-family: "purpleRain";
+    text-align: center;
+    font-size: 40px;
+}
+
+#crystalText {
+    font-family: "royalacid";
+    text-align: center;
+    font-size: 32px;
+}
+
+#stalkerText {
+    font-family: "bauman";
+    text-align: center;
+    font-size: 40px;
+}
+
+#trickText {
+    font-family: "misfits";
+    text-align: center;
+    font-size: 40px;
+}
 
 
 /* !!!!!!!!!!!!!! */
